@@ -1,0 +1,11 @@
+*note to self* don't actually type in the < > surrounding the words!
+ls <directory name>: list contents of a directory
+cd: go home
+cd <directory name>: change directory
+cd ..: go up
+cat <file name>: view the contents of a file
+gedit <file name>: start the development server (aka gedit)
+git clone --config="http.proxy=http://gina2170:stinky@192.168.2.1:8080" https://github.com/gina2170-cmis/gina2170-cmis-wd.git : clone 
+git add <file name>: makes git aware of the file
+git commit -m "commit comment": make a milestone (commit comments shouldn't be keysmashing!)
+git push: put it on github

@@ -1,7 +1,8 @@
 1. Enter the classroom.
 2. Place your bag on a table and seat yourself at your usual workspace.
 3. Turn on your computer and log in.
-4. Clone your repository.
+4. Clone your repository. Do this by typing in: git clone --config="http.proxy=http://your-network-username:your-network-password@192.168.2.1:8080" https://github.com/your-github-username/your-github-repository-name.git 
+Then you fill in the missing information such as your network username and password.
 5. Go under your repository folder by typing in: cd <insert repository name>
 6. To create a new file, type in: gedit file.txt (always type a new, unique name to create a new file, since you don't just want to open an already existing file. The name file.txt is just an example)
 7. Edit the file as you see fit.

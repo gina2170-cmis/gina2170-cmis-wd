@@ -1,0 +1,14 @@
+1. Enter the classroom.
+2. Place your bag on a table and seat yourself at your usual workspace.
+3. Turn on your computer and log in.
+4. Clone your repository.
+5. Go under your repository folder by typing in: cd <insert repository name>
+6. To create a new file, type in: gedit file.txt (always type a new, unique name to create a new file, since you don't just want to open an already existing file. The name file.txt is just an example)
+7. Edit the file as you see fit.
+8. Save the file (File --> Save). Then close the file. The asterisk in front of the file name disappears once the file is saved.
+9. Make github acknowledge the file by typing: git add file.txt (always do git add <insert file name>)
+10. Make a milestone by using commit. Type: git commit -m "insert comment here" (the comment should be unique and should relate to the changes made. An example would be "added file.txt")
+11. To put the changes on github, type in: git push
+12. Once the terminal asks you to, type in your github username and password.
+13. Log out of your accounts and shut down the computer.
+Grab your bag and exit the classroom :)

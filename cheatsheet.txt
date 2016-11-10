@@ -11,3 +11,11 @@ git commit -m "commit comment": make a milestone (commit comments shouldn't be k
 git push: put it on github
 python -m SimpleHTTPServer 
 ^^ open the development server
+sftp gina2170@cmis-hsteacher (open the production server)
+password: saFLGt/QKS6yw
+same commands
+!ls (look at the files on "your own" computer)
+put <insert file name> (upload onto server)
+*make sure that you are in your repository folder on your own computer (so open sftp while in your repository) and make sure that in sftp, you are in the folder you want the file in*
+web url to see the uploaded files:
+cmis-hsteacher/~name1234/filename.html

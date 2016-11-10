@@ -12,7 +12,7 @@ git push: put it on github
 python -m SimpleHTTPServer 
 ^^ open the development server
 sftp gina2170@cmis-hsteacher (open the production server)
-password: saFLGt/QKS6yw
+password: luciobsession05
 same commands
 !ls (look at the files on "your own" computer)
 put <insert file name> (upload onto server)

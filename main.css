@@ -1,12 +1,42 @@
 h1 {
-	color:#ffaabb; 
-	background-color:pink;
+	text-align:center;
+	color:Coral; 
+	background-color:Bisque;
 	font-family:Courier New;
-	font-size:50px
+	font-size:70px;
 	
 	
 }
 h2 {
-	color:pink;
+	font-weight:200;
+	color:OrangeRed;
 	border-style:dotted;
+	font-size:40px;
+	background-color:DarkSalmon;
+	opacity:0.5;
+	text-shadow:2px 2px #ff0044;
+	
+}
+h3 {
+	color:LightCoral;
+	background-color:beige;
+	border-style:dashed;
+	font-family:Comic Sans MS;
+	text-decoration:underline;
+	line-height:2.3;
+	letter-spacing:3px;
+	
+	
+}
+html {
+	background-color:beige;
+	
+}
+p {
+	word-spacing:10px;
+	color:IndianRed;
+	font-style:italic;
+	padding:35px;
+	
+	
 }

@@ -1,9 +1,12 @@
+
 h1 {
+
 	text-align:center;
 	color:Coral; 
 	background-color:Bisque;
 	font-family:Courier New;
-	font-size:70px;
+	font-size:80px;
+	background-image:url("http://www.clipartqueen.com/image-files/red-flower-yellow.png");
 	
 	
 }
@@ -11,7 +14,7 @@ h2 {
 	font-weight:200;
 	color:OrangeRed;
 	border-style:dotted;
-	font-size:40px;
+	font-size:4em;
 	background-color:DarkSalmon;
 	opacity:0.5;
 	text-shadow:2px 2px #ff0044;
@@ -19,24 +22,31 @@ h2 {
 }
 h3 {
 	color:LightCoral;
-	background-color:beige;
+	
 	border-style:dashed;
 	font-family:Comic Sans MS;
 	text-decoration:underline;
 	line-height:2.3;
 	letter-spacing:3px;
+	font-size:3ch;
 	
 	
 }
-html {
-	background-color:beige;
+body {
+	background-image:url("http://www.flowermeaning.com/flower-pics/Poppy-3.jpg");
+	background-repeat:no-repeat;
+	background-position:center;
+	cursor:crosshair;
+
 	
 }
 p {
 	word-spacing:10px;
-	color:IndianRed;
+	color:LightCoral;
 	font-style:italic;
-	padding:35px;
-	
-	
+	padding:40px;
+	font-size:1.5rem;
+	font-family:Comic Sans MS;
+	width:500px;
 }
+

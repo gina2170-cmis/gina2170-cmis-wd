@@ -43,7 +43,7 @@
 *Upload to the production server with sftp.
 *View your index.html in the production server. */
 
-h1 {
+header{
 
 	text-align:center;
 	color:Coral; 
@@ -51,8 +51,7 @@ h1 {
 	font-family:"Courier New";
 	font-size:80px;
 	background-image:url("http://www.clipartqueen.com/image-files/red-flower-yellow.png");
-	
-	
+		
 }
 h2 {
 	font-weight:200;
@@ -62,6 +61,7 @@ h2 {
 	background-color:DarkSalmon;
 	opacity:0.5;
 	text-shadow:2px 2px #ff0044;
+	font-family:"Courier New";
 	
 }
 h3 {
@@ -96,4 +96,28 @@ p {
 	font-family:"Comic Sans MS";
 	width:500px;
 }
+footer {
+	word-spacing:10px;
+	color:LightCoral;
+	font-style:italic;
+	padding:40px;
+	font-size:1.2rem;
+	font-family:"Comic Sans MS";
+	width:500px;
+}
 
+nav {
+	border:10px groove LightPink;
+	font-family:"Comic Sans MS";
+	color:DarkSalmon;
+}
+heading {
+	font-size:30px;
+	color:LightCoral;
+	font-family:"Comic Sans MS";
+}
+ul {
+	font-family:"Comic Sans MS";
+	color:LightCoral;
+	
+}

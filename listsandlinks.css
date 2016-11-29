@@ -1,0 +1,32 @@
+nav,p {
+	color:pink;
+	font-family:"Courier New";
+	border:10px solid pink;
+	font-size:20px;
+	margin:30px;
+
+}
+ol {
+	background-image:url("http://www.flowermeaning.com/flower-pics/Chrysanthemum-Color-Meaning.jpg");
+	color:white;
+	font-family:"Courier New";
+	margin:30px;
+}
+body ul {
+	background-image:url("http://media02.hongkiat.com/ww-flower-wallpapers/calmflower.jpg");
+	background-position:center;
+	font-family:"Courier New";
+	color:HotPink;
+	padding:20px;
+
+
+}
+body {
+	background-color:MistyRose;
+}
+header {
+	font-size:40px;
+	font-family:"Comic Sans MS";
+	color:LightPink;
+	text-shadow:2px 2px MediumVioletRed;
+}

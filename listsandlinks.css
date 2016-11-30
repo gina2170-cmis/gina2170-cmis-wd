@@ -1,4 +1,4 @@
-nav,p {
+nav,ol {
 	color:pink;
 	font-family:"Courier New";
 	border:10px solid pink;
@@ -9,8 +9,7 @@ nav,p {
 ol {
 	background-image:url("http://www.flowermeaning.com/flower-pics/Chrysanthemum-Color-Meaning.jpg");
 	color:white;
-	font-family:"Courier New";
-	margin:30px;
+	
 }
 body ul {
 	background-image:url("http://media02.hongkiat.com/ww-flower-wallpapers/calmflower.jpg");

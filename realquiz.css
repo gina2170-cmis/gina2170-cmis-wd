@@ -1,0 +1,58 @@
+html {
+	background-color:red;
+	padding-left:400px;
+	padding-right:530px;
+}
+h2 {
+	font-family:"Courier New";
+	border-right:100px solid green;
+	border-width:70px;
+}
+ol li {
+	border:2px dotted black;
+}
+main {
+	background-color:white;
+}
+h1 {
+	border-left:30px solid yellow;
+	font-family:impact;
+	color:yellow;
+	background-color:blue;
+	margin-bottom:0px;
+	
+}
+header {
+	background-color:blue;
+	color:white;
+	margin-top:0px;
+	padding:20px;
+	padding-bottom:0px;
+	font-family:arial;
+	
+}
+a:link {
+	color:yellow;
+	text-decoration:line-through,underline;
+
+	font-size:10px;
+
+}
+main {
+	width:550px;
+	padding-left:50px;
+	padding-right:50px;
+	
+}
+p {
+	text-decoration:underline;
+}
+ul li {
+	text-decoration:line-through;
+	font-size:10px;
+}
+footer {
+	background-color:blue;
+	color:white;
+	font-family:arial;
+}

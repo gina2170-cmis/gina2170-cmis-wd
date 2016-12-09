@@ -1,0 +1,42 @@
+h1 {
+	font-size:50px;
+	color:#DD005D;
+	font-family:"Courier New";
+}
+img {
+	height:200px;
+	width:200px;
+	outline:2px groove salmon;
+	margin-left:400px;
+	
+}
+article {
+	border:10px groove #911E4F;
+	margin:10px;
+	background-color:beige;
+}
+main a {
+	color:#BB517E;
+	font-family:arial;
+}
+header p {
+	text-decoration:underline;
+}
+li, nav {
+	border:2px dotted #911E4F;
+}
+h2 {
+	color:#372375;
+	font-family:"Courier New";
+	text-align:center;
+}
+p {
+	font-family:arial;
+	color:#BB517E;
+	margin-left:10px;
+}
+li {
+	color:#BB517E;
+	font-family:"Courier New";
+}
+
